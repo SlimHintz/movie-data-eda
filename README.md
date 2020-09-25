@@ -2,9 +2,6 @@
 
 ## Introduction
 
-
-# DELETE THIS LINE PLEASE, AIDAN
-
 In this lesson, we review the guidelines for the Phase 1 Project.
 
 ## Objectives
