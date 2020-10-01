@@ -205,16 +205,18 @@ def find_outliers(df, column):
     """
     Returns a boolean series. True if outside IQR*1.5 range, False otherwise
     """
-    IQR , median  = get_iqr(df, column)
+    IQR , median  = get_iqr_median(df, column)
     return df[column].apply(lambda x: is_outlier(x, IQR, median))
 
           
 def categorize_production(x):
     m = int(x)
-    if m < df['production_budget'].quantile(0.25):
-        return 'small'
-    elif m > df['production_budget'].quantile(0.75): 
-        return 'large'
-    else:
-        return 'medium'
+    k=''
+    if m < 5000000:
+        k = 'small'
+    if 5000000 <= m <= 100000000:
+        k = 'medium'
+    if m > 100000000:
+        k = 'large'
+    return k
 
