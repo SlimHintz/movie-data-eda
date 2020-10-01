@@ -36,14 +36,14 @@ def remove_null_genre(df, column):
     """
     return df[df[column].notnull()]
 
-def genre_set_list(df):
+def genre_set_list(series):
     """
-    df --> dataframe
+    series --> pandas.series
     return --> list
     
     returns a list of all unique genre's in the dataframe
     """
-    all_genres = list(df)
+    all_genres = list(series)
     return list(set([item for sublist in all_genres for item in sublist]))
 
 def create_boolean_series(series, genre):
@@ -94,7 +94,7 @@ def generate_genre_dataframe(df):
     """
     df --> dataframe
     
-    returns --> dataframe
+    returns --> dataframe genres AS LIST
     
     given a scaffold dataframe with a genres column will return that same data frame mutated such that each 
     genre is a new column and each row in that column is a boolean indicating if that observation has that genre in 
