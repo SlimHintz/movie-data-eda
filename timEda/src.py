@@ -166,6 +166,14 @@ def genre_pandas_mean(df, feature):
         # Sort dictionary by value
     return dict_to_pandas({k: v for k, v in sorted(feature_dict.items(), key=lambda item: item[1],reverse=True)})
 
+def genre_pandas_mean_multindex(df, feature_list):
+    """
+    df --> data frame containing a genres column in LIST FORM
+    """
+    multi_index = {}
+    for feature in feature_list:
+            multi_index.update({feature:genre_pandas_mean(df,feature)})
+    return multi_index
 
 """
 The following function are with dealing with money, outliers and timeseries analysis
@@ -211,9 +219,9 @@ def find_outliers(df, column):
           
 def categorize_production(x):
     m = int(x)
-    if m < df['production_budget'].quantile(0.25):
+    if m < 5000000:
         return 'small'
-    elif m > df['production_budget'].quantile(0.75): 
+    elif m >  100000000: 
         return 'large'
     else:
         return 'medium'
