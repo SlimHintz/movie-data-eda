@@ -1,3 +1,56 @@
+# The Launch of Microsoft Studios
+**Author**: [Tim Hintz](mailto:tjhintz@gmail.com)
+
+![img](./images/microsoft_logo.png)
+
+## Overview
+
+The current research uses exploratory data analysis to investigate the factors relevant to making a successful movie. We found that there are three key factors to consider:
+- How much does it cost to produce a movie?
+- Which genres are the most successful?
+- When should a studio release their movie?
+
+Though lacking in size of data, our results indicate  that Microsoft ought to produce **insert our magic bullet here** and avoid **insert our pitfalls here** while releasing the movie during key months, particularly if they want award consideration.
+
+
+### Business Problem
+
+Microsoft would like to start it’s own movie studio. However, they do not know anything about the movie industry. Here, we explore relevant data concerning the movie industry. In particular, our focus was on how best to minimise risk while opening up the potential for very large returns on investment. 
+
+### The Data
+
+In the folder `zippedData` are movie datasets from:
+
+* Box Office Mojo
+* IMDB
+* Rotten Tomatoes
+* TheMovieDB.org
+
+In the folder `rawdata` there are cleaned and wrangled data sets used in the final analysis
+
+### Methods
+
+This research utilized the application of descriptive statistics and data visualisations to motivate statistical inference on the optimal strategy for making a movie. Due to a changing market place, we did not include data points taken before 2010 and since 2020 had yet to finish, we also omitted any move released after 2019.
+
+
+### Results
+
+#### The risk of investment does not scale linearly
+**Aidan's key findings on budget categorization**
+
+#### There is a signeficant risk associated with certain genres
+**Tim's graph on budget**
+
+#### The Budget and Genre Will Determine Best Time of Release
+**Chart on Number of movies released permonth with sentiment value**
+**Chart of roi of movies permonth**
+
+
+
+
+
+
+
 # Phase 1 Project
 
 ## Introduction
