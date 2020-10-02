@@ -31,6 +31,8 @@ In the folder `rawdata` there are cleaned and wrangled data sets used in the fin
 
 This research utilized the application of descriptive statistics and data visualisations to motivate statistical inference on the optimal strategy for making a movie. Due to a changing market place, we did not include data points taken before 2010 and since 2020 had yet to finish, we also omitted any move released after 2019.
 
+As a metric for success we choose return on investment (ROI: profit/production budget). This allowed us to consider smaller budget films along side larger films.
+
 
 ### Results
 
@@ -50,7 +52,7 @@ Interpreting the first sections findings we think the soundest strategy is an in
 #### Month of Release Had Little Bearing on ROI
 ![img](./images/month-roi-budget.png)
 
-Finally, we examined the effect of month/seasonality on the ROI of movies released. From this chart, there is little evidence of an effect of month on ROI. 
+Finally, we examined the effect of month/seasonality on the ROI of movies released. From this chart, there is little evidence of an effect of month on ROI.
 
 
 #### Conclusions
