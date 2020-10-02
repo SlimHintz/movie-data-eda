@@ -16,6 +16,8 @@ Our results indicate that Microsoft should produce predominantly high budget fil
 
 Microsoft would like to start it’s own movie studio. However, they do not know anything about the movie industry. Here, we explore relevant data concerning the movie industry. In particular, our focus was on how best to minimise risk while opening up the potential for very large returns on investment. 
 
+![img](./images/minimalistfilm.jpg)
+
 ### The Data
 
 In the folder `zippedData` are movie datasets from:
