@@ -10,8 +10,7 @@ The current research uses exploratory data analysis to investigate the factors r
 - Which genres are the most successful?
 - When should a studio release their movie?
 
-Our results indicate that Microsoft should produce predominantly high budget sports and musical films. Microsoft should release them in the months of April, October and November to maximise predicted ROI. Microsoft should also be looking to invest in low budget Thriller,Crime and Mystery films for a decent chance of earning extrememly high returns on the investment. As low budget movies typically do better on April, July and October, these are the best months for Microsoft to release them on.
-
+Our results indicate that Microsoft should produce predominantly high budget films as they reprsent the lowerst overall risk when you account for outliers. The best performing genres in this category were Sports and Musicals. Though we set out to demonstrate a signeficant effect of time on performance, the data simply did not support that conclusion. 
 
 ### Business Problem
 
@@ -51,8 +50,7 @@ Interpreting the first sections findings we think the soundest strategy is an in
 #### The Budget and Genre Will Determine Best Time of Release
 ![img](./images/month-roi-budget.png)
 
-Finally, we examined the effect of month/seasonality on the ROI of movies released. From this chart, there is good evidence that there is a pattern on when high budget movies return the best profit. However, the evidence is not compelling and further research needs to be done. 
-
+Finally, we examined the effect of month/seasonality on the ROI of movies released. From this chart, there is little evidence 
 
 
 #### Conclusions
@@ -67,9 +65,8 @@ However, smaller budget films have almost a 15% chance of returning over 1000%. 
     - Try to replicate our findings
     - Perform more powerful statistical analysis
 
-- The seaonality of movie success is likely due to social factors rather than environmtal ones. We would like to look closer into how the awars ceremonies influece the success of a movie.
 
-- All of our budget and revenue data is an estimate based on crowed sourced websites. The presentation of revenue streams and production budgets is opaque. Therefore, we would ask Microsoft to allow us to purchase that information directly from the studios involved.
+- We in each category there was a signeficant amount of outliers
 
 - We did not look into the effect of celebrity on the success of a movie. A paper published in 2017 (François A. Carrillat et al. Debates and assumptions about motion picture performance: a meta-analysis, Journal of the Academy of Marketing Science (2017). DOI: 10.1007/s11747-017-0561-6) gave strong evidence that most important factors involved in a movies success are
     - Fame of the Actors
