@@ -36,9 +36,9 @@ This research utilized the application of descriptive statistics and data visual
 ### Results
 
 #### The risk of investment does not scale linearly
-![img](./images/Production Budget vs. ROI.png)
+![img]("./images/Production Budget vs. ROI.png")
 
-By removing outliers, we were able to see that the high production movies rarely acheive high roi values. In Addition we saw clustering of low budget films at the higher end of the ROI valus.
+Low and medium budget films have a noticably wider range of outcomes. Low and medium budget films have more negative datapoints. Larger budget films offer a more consistent roi
 
 #### There is a signeficant risk associated with certain genres
 ![img](./images/genre-roi-budget.png)
