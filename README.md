@@ -36,14 +36,16 @@ This research utilized the application of descriptive statistics and data visual
 ### Results
 
 #### The risk of investment does not scale linearly
-**Aidan's key findings on budget categorization**
+![img](./images/Production Budget vs. ROI.png)
+
+By removing outliers, we were able to see that the high production movies rarely acheive high roi values. In Addition we saw clustering of low budget films at the higher end of the ROI valus.
 
 #### There is a signeficant risk associated with certain genres
 ![img](./images/genre-roi-budget.png)
 
 During our research we found that some genres are particulalry risky investments in the current market. Westerns and News based movies seem to do badly especially when the budget for them is low. 
 
-On the other hand low budget fantasy, mystery and horror do very well. 
+On the other hand low budget fantasy, mystery and horror do relatively well. 
 
 Interpreting the first sections findings we think the soundest strategy is an investment in high budget musicals and sports movies with a modertate investment in low budget horror, thriller and crimes movies.
 #### The Budget and Genre Will Determine Best Time of Release
@@ -61,82 +63,23 @@ However, smaller budget films have almost a 15% chance of returning over 1000%. 
 
 #### Further Research
 
-The seaonality of movie success is likely due to social factors rather than environmtal ones. It would be interesting to examine the frequency of oscar nominations per month.
+- Our data is only a small subset of the available information. Supplementary data should be used in further analysis in order to: 
+    - Try to replicate our findings
+    - Perform more powerful statistical analysis
 
-Furthermore, all of the
+- The seaonality of movie success is likely due to social factors rather than environmtal ones. We would like to look closer into how the awars ceremonies influece the success of a movie.
+
+- All of our budget and revenue data is an estimate based on crowed sourced websites. The presentation of revenue streams and production budgets is opaque. Therefore, we would ask Microsoft to allow us to purchase that information directly from the studios involved.
+
+- We did not look into the effect of celebrity on the success of a movie. A paper published in 2017 (François A. Carrillat et al. Debates and assumptions about motion picture performance: a meta-analysis, Journal of the Academy of Marketing Science (2017). DOI: 10.1007/s11747-017-0561-6) gave strong evidence that most important factors involved in a movies success are
+    - Fame of the Actors
+    - Marketing Budget
+    - Number of screens released on
+    
 
 
 
-# Phase 1 Project
 
-## Introduction
-
-In this lesson, we review the guidelines for the Phase 1 Project.
-
-## Objectives
-
-You will be able to:
-
-* Start your Phase 1 Project
-* Check that your project meets the requirements
-* Submit your project materials in Canvas
-* Prepare for your project review
-
-## Project Overview
-
-You've made it all the way through the first phase of this course - take a minute to celebrate your awesomeness!
-
-![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-campus/master/awesome.gif)
-
-All that remains in Phase 1 is to put our newfound data science skills to use with a large project! This project will take an entire week to complete.
-
-### Business Problem
-
-Microsoft sees all the big companies creating original video content, and they want to get in on the fun. They have decided to create a new movie studio, but the problem is they don’t know anything about creating movies. They have hired you to help them better understand the movie industry.
-Your team is charged with exploring what type of films are currently doing the best at the box office. You must then translate those findings into actionable insights that the head of Microsoft's new movie studio can use to help decide what type of films to create.
-
-### The Data
-
-In the folder `zippedData` are movie datasets from:
-
-* Box Office Mojo
-* IMDB
-* Rotten Tomatoes
-* TheMovieDB.org
-
-It is up to you to decide what data from this to use and how to use it. If you want to make this more challenging, you can scrape websites or make API calls to get additional data. If you are feeling overwhelmed or behind (e.g. struggled with the Phase 1 Code Challenge), we recommend you use only the following data files:
-
-* imdb.title.basics
-* imdb.title.ratings
-* bom.movie_gross
-
-## Deliverables
-
-There are three deliverables for this project:
-
-1. A **GitHub repository**
-2. A **Jupyter Notebook**
-3. A **non-technical presentation**
-
-Keep in mind that the audience for these deliverables is not only your teacher, but also potential employers. Employers will look at your project deliverables to evaluate multiple skills, including coding, modeling, communication, and domain knowledge. You will want to polish these as much as you can, both during the course and afterwards.
-
-We provide a few resources to help you understand what makes for good deliverables.
-- The rubric associated with this assignment
-- [A template for you to use, with an example for reference][].
-
-### GitHub Repository
-
-Your GitHub repository is the public-facing version of your project that your instructors and potential employers will see - make it as accessible as you can. At a minimum, it should contain all your project files and a README.md file that summarizes your project and helps visitors navigate the repository.
-
-### Jupyter Notebook
-
-Your Jupyter Notebook is the primary source of information about your analysis. At a minimum, it should contain or import all of the code used in your project and walk the reader through your project from start to finish. You may choose to use multiple Jupyter Notebooks in your project, but you should have one that provides a full project overview as a point of entry for visitors.
-
-### Non-Technical Presentation
-
-Your non-technical presentation is your opportunity to communicate clearly and concisely about your project and it's real-world relevance. The target audience should be people with limited technical knowledge who may be interested in leveraging your project. For Phase 1, these would be Microsoft executives interested in making decisions about movie development. We recommend using Google Slides, PowerPoint or Keynote to create your presentation slides.
-
-## Getting Started
 
 Please start by reviewing this document. If you have any questions, please ask your instructor ASAP.
 
