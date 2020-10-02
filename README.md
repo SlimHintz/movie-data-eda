@@ -50,7 +50,7 @@ Interpreting the first sections findings we think the soundest strategy is an in
 #### The Budget and Genre Will Determine Best Time of Release
 ![img](./images/month-roi-budget.png)
 
-Finally, we examined the effect of month/seasonality on the ROI of movies released. From this chart, there is little evidence 
+Finally, we examined the effect of month/seasonality on the ROI of movies released. From this chart, there is little evidence of an effect of month on ROI. 
 
 
 #### Conclusions
