@@ -36,7 +36,7 @@ This research utilized the application of descriptive statistics and data visual
 ### Results
 
 #### The risk of investment does not scale linearly
-![img]("./images/Production Budget vs. ROI.png")
+![img](./images/production-budget-roi.png )
 
 Low and medium budget films have a noticably wider range of outcomes. Low and medium budget films have more negative datapoints. Larger budget films offer a more consistent roi
 
