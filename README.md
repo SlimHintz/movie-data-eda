@@ -75,10 +75,10 @@ However, smaller budget films have almost a 15% chance of returning over 1000%. 
 
 
 #### Navigation
-`microsoft-studios-eda.ipynb`: The final notebook containing our collected work and discussions
-`datacleaning`: Notebooks containing the authors preliminary EDA and data cleaning
-`rawdata`: File containing our wrangled and cleaned data sets
-`zippedData`: Original data obtained through the Flatiron School
-`README.md`: Display document containing our key findings and this sentence.
-`src.py`: Collected functions utilized for both data cleaning and EDA
+- `microsoft-studios-eda.ipynb`: The final notebook containing our collected work and discussions
+- `datacleaning`: Notebooks containing the authors preliminary EDA and data cleaning
+- `rawdata`: File containing our wrangled and cleaned data sets
+- `zippedData`: Original data obtained through the Flatiron School
+- `README.md`: Display document containing our key findings and this sentence.
+- `src.py`: Collected functions utilized for both data cleaning and EDA
 
