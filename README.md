@@ -1,5 +1,5 @@
 # The Launch of Microsoft Studios
-**Author**: [Tim Hintz](mailto:tjhintz@gmail.com)
+**Author**: [Tim Hintz](mailto:tjhintz@gmail.com) [Aidan Coco]()
 
 ![img](./images/microsoft_logo.png)
 
@@ -10,7 +10,7 @@ The current research uses exploratory data analysis to investigate the factors r
 - Which genres are the most successful?
 - When should a studio release their movie?
 
-Though lacking in size of data, our results indicate  that Microsoft ought to produce **insert our magic bullet here** and avoid **insert our pitfalls here** while releasing the movie during key months, particularly if they want award consideration.
+Our results indicate that Microsoft should produce predominantly high budget sports and musical films. Microsoft should release them in the months of April, October and November to maximise predicted ROI. Microsoft should also be looking to invest in low budget Thriller,Crime and Mystery films for a decent chance of earning extrememly high returns on the investment. As low budget movies typically do better on April, July and October, these are the best months for Microsoft to release them on.
 
 
 ### Business Problem
@@ -39,15 +39,31 @@ This research utilized the application of descriptive statistics and data visual
 **Aidan's key findings on budget categorization**
 
 #### There is a signeficant risk associated with certain genres
-**Tim's graph on budget**
+![img](./images/genre-roi-budget.png)
 
+During our research we found that some genres are particulalry risky investments in the current market. Westerns and News based movies seem to do badly especially when the budget for them is low. 
+
+On the other hand low budget fantasy, mystery and horror do very well. 
+
+Interpreting the first sections findings we think the soundest strategy is an investment in high budget musicals and sports movies with a modertate investment in low budget horror, thriller and crimes movies.
 #### The Budget and Genre Will Determine Best Time of Release
-**Chart on Number of movies released permonth with sentiment value**
-**Chart of roi of movies permonth**
+![img](./images/month-roi-budget.png)
+
+Finally, we examined the effect of month/seasonality on the ROI of movies released. From this chart, there is good evidence that there is a pattern on when high budget movies return the best profit. However, the evidence is not compelling and further research needs to be done. 
 
 
 
+#### Conclusions
 
+It is our opinion that if Microsoft wishes to get into the movie industry, the safest way to do so would be to invest heavily into large, blockbuster type films particularly Musicals and Sports based movies to do well. In addition, they should aim to release those movies in either April, October or December to have the greatest expected ROI.
+
+However, smaller budget films have almost a 15% chance of returning over 1000%. This is something that should be investigated further. In particular, Horror, Crime and Mystery films can yeild an enormous ROI under some currently undiscovered conditions. It is our opinion that any studio should be investing in lower budget indie films in order to maximise their chances of returning on their investment.
+
+#### Further Research
+
+The seaonality of movie success is likely due to social factors rather than environmtal ones. It would be interesting to examine the frequency of oscar nominations per month.
+
+Furthermore, all of the
 
 
 
