@@ -1,5 +1,5 @@
 # The Launch of Microsoft Studios Film Division
-**Author**: [Tim Hintz](mailto:tjhintz@gmail.com) [Aidan Coco](aidancoco@gmail.com)
+**Authors**: [Tim Hintz](mailto:tjhintz@gmail.com), [Aidan Coco](aidancoco@gmail.com)
 
 ![img](./images/microsoft_logo.png)
 
@@ -10,7 +10,7 @@ The current research uses exploratory data analysis to investigate the factors r
 - Which genres are the most successful?
 - When should a studio release their movie?
 
-Our results indicate that Microsoft should produce predominantly high budget films as they reprsent the lowerst overall risk when you account for outliers. The best performing genres in this category were Sports and Musicals. Though we set out to demonstrate a signeficant effect of time on performance, the data simply did not support that conclusion. 
+Our results indicate that Microsoft should produce predominantly high budget films as they reprsent the lowest overall risk when you account for outliers. The best performing genres in this category were Sports and Musicals. Though we set out to demonstrate a signeficant effect of time on performance, the data simply did not support that conclusion. 
 
 ### Business Problem
 
@@ -47,7 +47,7 @@ During our research we found that some genres are particulalry risky investments
 On the other hand low budget fantasy, mystery and horror do relatively well. 
 
 Interpreting the first sections findings we think the soundest strategy is an investment in high budget musicals and sports movies with a modertate investment in low budget horror, thriller and crimes movies.
-#### The Budget and Genre Will Determine Best Time of Release
+#### Month of Release Had Little Bearing on ROI
 ![img](./images/month-roi-budget.png)
 
 Finally, we examined the effect of month/seasonality on the ROI of movies released. From this chart, there is little evidence of an effect of month on ROI. 
