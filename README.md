@@ -1,5 +1,5 @@
 # The Launch of Microsoft Studios Film Division
-**Authors**: [Tim Hintz](mailto:tjhintz@gmail.com), [Aidan Coco](aidancoco@gmail.com)
+**Authors**: [Tim Hintz](mailto:tjhintz@gmail.com), [Aidan Coco](mailto:aidancoco@gmail.com)
 
 ![img](./images/microsoft_logo.png)
 
