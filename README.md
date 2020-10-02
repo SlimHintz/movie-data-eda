@@ -1,5 +1,5 @@
-# The Launch of Microsoft Studios
-**Author**: [Tim Hintz](mailto:tjhintz@gmail.com) [Aidan Coco]()
+# The Launch of Microsoft Studios Film Division
+**Author**: [Tim Hintz](mailto:tjhintz@gmail.com) [Aidan Coco](aidancoco@gmail.com)
 
 ![img](./images/microsoft_logo.png)
 
@@ -76,30 +76,3 @@ However, smaller budget films have almost a 15% chance of returning over 1000%. 
     - Marketing Budget
     - Number of screens released on
     
-
-
-
-
-
-Please start by reviewing this document. If you have any questions, please ask your instructor ASAP.
-
-We recommend you check out [the Phase 1 Project Templates and Examples repo](https://github.com/learn-co-curriculum/dsc-project-template) and use the MVP template for your project.
-
-Alternatively, you can fork [the Phase 1 Project Repository][], clone it locally, and work in the `student.ipynb` file. Make sure to also add and commit a PDF of your presentation to your repository with a file name of `presentation.pdf`.
-
-## Project Submission and Review
-
-Review [the Phase Project Submission and Review guidance][] to learn how to submit your project and how it will be reviewed. Your project must pass review for you to progress to the next Phase.
-
-## Summary
-
-This project will give you a valuable opportunity to develop your data science skills using real-world data. The end-of-phase projects are a critical part of the program because they give you a chance to bring together all the skills you've learned, apply them to realistic projects for a business stakeholder, practice communication skills, and get feedback to help you improve. You've got this!
-
-## Tips
-
-Ask for help from your peers or instructors early and often.
-
-[A template for you to use, with an example for reference]: https://github.com/learn-co-curriculum/dsc-project-template
-[Google Chrome Save to PDF instructions]: https://www.wikihow.com/Save-a-Web-Page-as-a-PDF-in-Google-Chrome
-[the Phase 1 Project Repository]: https://github.com/learn-co-curriculum/dsc-phase-1-project-campus
-[the Phase Project Submission and Review guidance]: https://github.com/learn-co-curriculum/dsc-project-submissions-campus
